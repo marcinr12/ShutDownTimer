@@ -1,0 +1,20 @@
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\bin\Release\ShutdownApp.exe.config
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\bin\Release\ShutdownApp.exe
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\bin\Release\ShutdownApp.pdb
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Release\ShutdownApp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Release\ShutdownApp.Form1.resources
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Release\ShutdownApp.Properties.Resources.resources
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Release\ShutdownApp.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Release\ShutdownApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Release\ShutdownApp.exe
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Release\ShutdownApp.pdb
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp — kopia\ShutdownApp\bin\Release\ShutdownApp.exe.config
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp — kopia\ShutdownApp\bin\Release\ShutdownApp.exe
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp — kopia\ShutdownApp\bin\Release\ShutdownApp.pdb
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp — kopia\ShutdownApp\obj\Release\ShutdownApp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp — kopia\ShutdownApp\obj\Release\ShutdownApp.Form1.resources
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp — kopia\ShutdownApp\obj\Release\ShutdownApp.Properties.Resources.resources
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp — kopia\ShutdownApp\obj\Release\ShutdownApp.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp — kopia\ShutdownApp\obj\Release\ShutdownApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp — kopia\ShutdownApp\obj\Release\ShutdownApp.exe
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp — kopia\ShutdownApp\obj\Release\ShutdownApp.pdb

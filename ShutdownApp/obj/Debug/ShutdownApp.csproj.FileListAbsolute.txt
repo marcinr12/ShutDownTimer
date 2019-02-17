@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\bin\Debug\ShutdownApp.exe.config
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\bin\Debug\ShutdownApp.exe
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\bin\Debug\ShutdownApp.pdb
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.Properties.Resources.resources
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.exe
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.pdb
+C:\Users\Asus\Desktop\MojeProjekty\C#\ShutdownApp\ShutdownApp\obj\Debug\ShutdownApp.Form1.resources
